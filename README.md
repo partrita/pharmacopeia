@@ -6,7 +6,7 @@ pharmacopeia collection
 - Japan: http://jpdb.nihs.go.jp/jp17e/
 - WHO: http://apps.who.int/phint/en/p/docf/
 - USA:
-- European: https://www.edqm.eu/en/european-pharmacopoeia-ph-eur-9th-edition, http://www.fptl.ru/
+- European: https://www.edqm.eu/en/european-pharmacopoeia-ph-eur-9th-edition, http://www.fptl.ru/biblioteka/farmakopei.html
 
 # licence
 
